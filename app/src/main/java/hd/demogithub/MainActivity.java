@@ -15,4 +15,11 @@ public class MainActivity extends AppCompatActivity {
 
         return a + b;
     }
+
+    public int addtwo(int a,int b,int c){
+
+        return a + b + c;
+    }
+
+
 }
