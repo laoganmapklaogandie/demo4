@@ -26,5 +26,10 @@ public class MainActivity extends AppCompatActivity {
         return a + b + c +d;
     }
 
+    public int addfour(int a,int b,int c,int d,int e){
+
+        return a + b + c +d +e;
+    }
+
 
 }
